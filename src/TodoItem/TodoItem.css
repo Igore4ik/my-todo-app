@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  justify-content: space-around;
+  background: rgb(156, 155, 155);
+  margin: 5px;
+  cursor: pointer;
+  padding: 3px;
+}
+.item:hover {
+  background: rgb(99, 98, 98);
+}
+button:hover {
+  background: rgb(219, 90, 90);
+  color: white;
+}
